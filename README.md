@@ -1,3 +1,3 @@
-# Codecademy
+# SQL
 
-### This the SQL Cheatsheet
+### Codecademy cheatsheet
